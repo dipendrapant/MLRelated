@@ -2,7 +2,8 @@
 ***************************************
 
 Custom CNN classifier using tensorfow keras for Malware Image Multiclass Classification Problem
-
+a) Custom CNN Model-MalwareClassifier_MalingFinalVersion.ipynb
+b) Transfer Leraning- Malware Classification VGG16 Transfer Learning.ipynb
 =============Requirments===============
 =======================================
 1- Tensorflow 2.3.1
