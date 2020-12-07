@@ -12,7 +12,7 @@ Custom CNN classifier using tensorfow keras for Malware Image Multiclass Classif
 5- Numpy
 6- matplotlib.pyplot
 
-=============Trained Model Info========
+=============Custom Model Info========
 =======================================
 Test Train Split: 80/20
 Already Trained Model: MalingModel.h5
